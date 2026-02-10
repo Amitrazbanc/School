@@ -1,0 +1,7 @@
+{
+  "name": "Shree Saraswati Secondary School Portal",
+  "description": "A comprehensive, secure, and scalable school management system and public website for Shree Saraswati Secondary School, Satyawati-06. Features include a public portal, online admissions, and a robust admin dashboard.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
